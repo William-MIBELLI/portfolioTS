@@ -1,7 +1,7 @@
 [
     {
         "name": "Le quai antique",
-        "description": "App web d'un restaurant fictif. L'administrateur peut y modifier les menus, les plats, les horaires, et gérer les réservation via un module d'administration. Les utilisateurs peuvent créer un compte et réserver une table.",
+        "description": "Application web d'un restaurant fictif. L'administrateur peut y modifier les menus, les plats, les horaires, et gérer les réservation via un module d'administration. Les utilisateurs peuvent créer un compte et réserver une table. Les données sont stockées sur Firebase",
         "urlSite": "https://celebrated-lebkuchen-76024c.netlify.app/",
         "urlGit": "https://github.com/William-MIBELLI/ecf_restaurant",
         "technos": [
@@ -11,7 +11,7 @@
     },
     {
         "name": "WorkOut Base",
-        "description": "Site d'administration d'une chaine de salle de sport. L'application permet aux franchisés de pouvoir gérer leurs abonnements, leurs salles, leurs options souscrites, etc...",
+        "description": "Site d'administration d'une chaine de salle de sport. L'application permet aux franchisés de pouvoir gérer leurs abonnements, leurs salles, leurs options souscrites, etc... Les données sont stockées dans une base de donnée SQL, le tout est réalisé sans framework.",
         "urlSite": "https://studiworkoutbase.herokuapp.com/",
         "urlGit": "https://github.com/William-MIBELLI/studi_ecf",
         "technos": [

@@ -10,6 +10,6 @@ export const Title = styled.h2`
 `
 
 export const Content = styled.p`
-    margin: 0 10px;
+    margin: 30px 0 30px 30px;
     text-align: justify;
 `

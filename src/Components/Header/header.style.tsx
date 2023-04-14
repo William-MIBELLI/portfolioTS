@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    height: 60px;
     width: 75%;
     margin: 0 auto;
     display: flex;
@@ -16,11 +15,13 @@ export const LinkContactContainer = styled.div`
     justify-content: flex-end;
 `
 
-export const Brand = styled.h1`
+export const Brand = styled.p`
     margin-left: 10px;
+    margin-bottom: auto;
     cursor: pointer;
-    
+    color: white;
+    font-size: 3rem;
     &:hover{
-        color: #FFA559;
+        color: #7CA655;
     }
 `

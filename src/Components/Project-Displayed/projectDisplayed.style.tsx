@@ -28,11 +28,10 @@ export const UrlLink = styled.a`
     text-decoration: none;
     color: white;
     margin: 0 10px;
-    border-bottom: 2px solid #FFA559;
+    border-bottom: 2px solid #F9D448;
 
     &:hover{
-        color: #FFE6C7;
-        border: none;
+        border-bottom: 2px solid #7CA655;
     }
 `
 

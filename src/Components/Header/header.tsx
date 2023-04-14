@@ -20,6 +20,7 @@ const Header = () => {
             <LinkContactContainer>
                 <IconHeader name="gmail" link="mailto:william.mibelli@gmail.com"/>
                 <IconHeader name="github" link='https://github.com/William-MIBELLI?tab=repositories'/>
+                <IconHeader name="cv" link=""/>
             </LinkContactContainer>
         </Container>
     )

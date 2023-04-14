@@ -7,8 +7,8 @@ export const Container = styled.div`
     flex-direction: column;
     justify-content: center;
     position: relative;
-    border-left: 3px solid #FF6000;
-    border-top: 3px solid #FF6000;
+    border-left: 3px solid #0E8388;
+    border-top: 3px solid #0E8388;
     border-radius: 5px 4px 0 4px;
 `
 export const Title = styled.h2`

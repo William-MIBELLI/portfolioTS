@@ -11,7 +11,7 @@ export const Container = styled.p`
 
     &:hover::after{
         content:"";
-        background-color: #FFA559;
+        background-color: #7CA655;
         height: 2px;
         width: 100%;
         position: absolute;
