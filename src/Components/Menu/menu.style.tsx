@@ -10,6 +10,15 @@ export const Container = styled.div`
     border-left: 3px solid #0E8388;
     border-top: 3px solid #0E8388;
     border-radius: 5px 4px 0 4px;
+
+    @media screen and (max-width: 1300px){
+        width: 200px;
+    }
+    @media screen and (max-width: 1100px){
+        width: auto;
+        height: 110px;
+    }
+
 `
 export const Title = styled.h2`
     margin: 15px 0 0 15px;
@@ -23,4 +32,8 @@ export const LinksContainer = styled.div`
     margin: auto 0;
     height: 40%;
     margin-left: 30px;
+
+    @media screen and (max-width: 1100px){
+        flex-direction: row;
+    }
 `

@@ -12,6 +12,10 @@ export const Container = styled.div`
     border-radius: 4px 5px 4px 0;
     max-height: 60px;
 
+    @media screen and (max-width: 1300px){
+        width: 90%;
+    }
+
 `
 export const LinkContactContainer = styled.div`
     width: 200px;

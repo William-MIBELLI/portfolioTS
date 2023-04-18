@@ -3,7 +3,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #191825;
+  background:linear-gradient(90deg,#191825,#100b49);
   color: #F7F1E5;
 }
 h1, h2 {

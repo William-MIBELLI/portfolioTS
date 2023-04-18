@@ -8,4 +8,9 @@ export const Container = styled.main`
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+
+    @media screen and (max-width: 1100px){
+        flex-direction: column-reverse;
+        height: fit-content;
+    }
 `

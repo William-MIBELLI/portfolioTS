@@ -1,5 +1,4 @@
 import { useDispatch } from "react-redux";
-import Techno from "../Techno/techno";
 import { Container, LinkContactContainer } from "./header.style";
 import { resetSelectedProject } from "../../Store/Project/project.action";
 import { useSelector } from "react-redux";
