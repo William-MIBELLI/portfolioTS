@@ -9,5 +9,6 @@ export type Project = {
     urlSite: string,
     urlGit: string,
     technos: string[],
-    isSelected: boolean
+    isSelected: boolean,
+    logs ?: string[]
 }

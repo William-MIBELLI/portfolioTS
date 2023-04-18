@@ -1,27 +1,29 @@
 [
     {
-        "name": "Le quai antique",
-        "description": "Application web d'un restaurant fictif. L'administrateur peut y modifier les menus, les plats, les horaires, et gérer les réservation via un module d'administration. Les utilisateurs peuvent créer un compte et réserver une table. Les données sont stockées sur Firebase",
+        "name": "Le Quai Antique",
+        "description": "Application web d'un restaurant fictif. L'administrateur peut y modifier les menus, les plats, les horaires, et gérer les réservation via un module d'administration. Les utilisateurs peuvent créer un compte et réserver une table. Les données sont stockées sur Firebase.",
         "urlSite": "https://celebrated-lebkuchen-76024c.netlify.app/",
         "urlGit": "https://github.com/William-MIBELLI/ecf_restaurant",
         "technos": [
             "javascript", "react", "redux", "firebase"
         ],
-        "isSelected" : false
+        "isSelected" : false,
+        "logs": ["test@admin.com", "PassAdmin"]
     },
     {
         "name": "WorkOut Base",
-        "description": "Site d'administration d'une chaine de salle de sport. L'application permet aux franchisés de pouvoir gérer leurs abonnements, leurs salles, leurs options souscrites, etc... Les données sont stockées dans une base de donnée SQL, le tout est réalisé sans framework.",
+        "description": "Site d'administration d'une chaine de salle de sport. L'application permet aux franchisés de pouvoir gérer leurs abonnements, leurs salles, leurs options souscrites, etc... Les données sont stockées dans une base de donnée SQL, l'ensemble est réalisé sans framework.",
         "urlSite": "https://studiworkoutbase.herokuapp.com/",
         "urlGit": "https://github.com/William-MIBELLI/studi_ecf",
         "technos": [
             "html", "css", "javascript", "php", "sql"
         ],
-        "isSelected" : false
+        "isSelected" : false,
+        "logs": ["admin@admin.com", "admin"]
     },
     {
-        "name": "ShopWear",
-        "description": "Site de vente en ligne de vètements",
+        "name": "Shopwear",
+        "description": "Site de vente en ligne de vêtements. Les données sont stockées en ligne sur Firebase, et gérer dans l'application via Redux-SAGA. Le tout a été développé avec React-JS, puis migré vers Typescript.",
         "urlSite":"https://cerulean-fenglisu-8d3731.netlify.app",
         "urlGit": "https://github.com/William-MIBELLI/shop_wear",
         "technos": [

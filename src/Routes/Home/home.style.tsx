@@ -21,4 +21,5 @@ export const BotImg = styled.img`
     bottom: 0;
     left : 0;
     width: 27%;
+    z-index: -5;
 `
